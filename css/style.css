@@ -1,0 +1,12 @@
+.logo-img{
+    width: 100px;
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+.error-info {
+    display: none;
+}
+.error-info.show{
+    display: block;
+}
